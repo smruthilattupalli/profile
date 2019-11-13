@@ -37,11 +37,15 @@ a:hover {
   border-radius: 50%;
 }
 
+.container {
+    width: 700px;
+    margin: 20px auto;
+}
+
 .card {
-  width: 600px;
   background-color: white;
   padding: 20px;
-  margin: 20px auto;
+  margin: 20px 0px;
   text-align: center;
   border-radius: 8px;
   box-shadow: 10px 20px 40px rgba(0,0,0,0.2);
